@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tetris</string>
+
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="resume">resume</string>
+    <string name="restart">restart</string>
+    <string name="stop">stop</string>
+    <string name="faster">faster</string>
+    <string name="slowly">slowly</string>
+</resources>
